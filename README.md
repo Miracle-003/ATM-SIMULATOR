@@ -3,6 +3,9 @@
 ## Overview
 
 ATM Simulator is a front-end banking simulation project designed to replicate the workflow of a real Automated Teller Machine (ATM). The application demonstrates transaction processing, balance management, receipt generation, user authentication, and screen-based navigation using HTML, CSS, and JavaScript.
+A recorded demonstration of the ATM Simulator is available below:
+
+🔗 [https://drive.google.com/file/d/1vXTwgmr3LVOkWJkq1xcYGR3ig_rD2Ioc/view?usp=sharing)
 
 The project was originally developed as a personal learning exercise focused on JavaScript state management, UI transitions, and transaction workflows.
 ---
